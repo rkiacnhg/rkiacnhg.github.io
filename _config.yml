@@ -3,8 +3,6 @@ logo: "/images/australia.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Machine Learning Student
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/richard-kang-b6408916b//">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
