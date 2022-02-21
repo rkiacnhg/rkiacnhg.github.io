@@ -13,7 +13,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[First Programming Class Final Project :)](https://www.youtube.com/watch?v=LaxB_8od_JU&list=LL&index=39&t=7s)
+[First Programming Project: 2D- Game for 1 or 2 Players:)](https://www.youtube.com/watch?v=LaxB_8od_JU&list=LL&index=39&t=7s)
 
 ---
 <p style="font-size:11px">template by <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
