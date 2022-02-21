@@ -3,7 +3,8 @@
 ---
 
 [Using One Class VAEs to Analyze Bias in Deepfake Audio](https://www.youtube.com/watch?v=m44fEsZHE5w&list=PLp-0K3kfddPw0hVKPZa5JJL9fqLn_mUjO&index=24)
-<img src = "images/ocvaepic.png?raw=true"/>
+<img src="images/ocvaepic.png?raw=true"/>
+
 ---
 [Sequentializing Pytorch's Parallel Implementation of Attention for Transformers](/pdf/sample_presentation.pdf)
 
