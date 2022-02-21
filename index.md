@@ -7,8 +7,8 @@
 [github](https://github.com/rkiacnhg/deepfake-audio-detection-with-ocvae)
 
 ---
-[Sequentializing Pytorch's Parallel Implementation of Attention for Transformers](/pdf/sample_presentation.pdf)
-
+[Sequentializing Pytorch's Parallel Implementation of Attention for Transformers](https://github.com/rkiacnhg/sequentializing-attention-pytorch/blob/main/sequentializing_attention.ipynb)
+[github](https://github.com/rkiacnhg/sequentializing-attention-pytorch/)
 
 ---
 [hi](http://example.com/)
