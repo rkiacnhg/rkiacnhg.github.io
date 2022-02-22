@@ -14,7 +14,7 @@ The comparison shows that a parallelized implementation is preferred when there 
 
 
 ---
-### [First Programming Project: 2D-Game for 1 or 2 Players :)](https://www.youtube.com/watch?v=LaxB_8od_JU&list=LL&index=39&t=7s)
+<!-- ### [First Programming Project: 2D-Game for 1 or 2 Players :)](https://www.youtube.com/watch?v=LaxB_8od_JU&list=LL&index=39&t=7s) -->
 
 <!-- My first programming project done in 2018. OOP based Zombie Survival game involving blaster upgrades/increasing difficulty/teammates. For 2 player, one player plays as the Zombie. [(github)](https://github.com/rkiacnhg/TP/tree/master) -->
 
