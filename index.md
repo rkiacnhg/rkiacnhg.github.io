@@ -28,7 +28,7 @@ I introduce a paper that theoretically explained why gradient clipping helps tra
 ## Misc
 
 ### [Conv Layer Output Size Calculator](https://rkiacnhg.github.io/convnet-calculator/)
-This calculator coputes output size of Conv layers, and takes as parameters Kernel size, Channel size, Strides and Dilation. 
+This calculator computes output size of Conv layers, and takes as parameters Kernel size, Channel size, Strides and Dilation. 
 
 <p style="font-size:11px">template by <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
